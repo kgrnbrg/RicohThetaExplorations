@@ -1,0 +1,22 @@
+After you have rendered/exported your edited video
+
+Download 360 Video MetaData Tool
+-Un-zip the file, then open the 360 Video Metadata app. If you're on a Mac, you may need to right-click the app and then click "Open"
+-Select the video file
+-Select the checkbox for "Spherical" and click "Save as". Note: Do not select the 3D Topbottom checkbox. 
+-Enter a name for the file that will be created
+-Save the file. A new file will be created automatically in the same location as the original file
+-Upload the new file to YouTube
+-Wait for the 360 degree effect to process. This may take up to an hour.
+
+Publishing to YouTube
+Before publishing, you can verify that the file has 360 degree playback enabled by watching the video on your computer. It may take up to an hour for 360 degree playback to be available.
+
+360 degree videos feature a pan button in the top left, and can be rotated using the WASD keys, so look for these features to confirm your video is in 360.
+
+Be sure not to make edits to the video itself using the YouTube Video Editor and Enhancements tools on desktop or mobile apps, as these tools don't currently support 360 degree videos.
+
+
+For the best results, encode your video at a high resolution and according to YouTube's advanced specifications [https://support.google.com/youtube/answer/1722171]. YouTube currently supports 360 degree videos with 24, 25, 30, 48, 50, or 60 frames per second. We recommend uploading 16:9 aspect ratio stitched videos in 4K (3840x2160) resolution. 
+
+Apart from the above mentioned cameras, 360 degree videos can also be created using custom camera rigs and third party stitching software like Kolor Autopano [http://www.kolor.com/360-videos/].
